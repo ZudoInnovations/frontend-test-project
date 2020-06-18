@@ -14,9 +14,9 @@ Convert the following screens into a functional user flow using Vue.js & modern 
 
 ### Requirements
 - Use Vue.js & SCSS
-- Pull movie data from a third party API 
+- Pull movie data from a third party API (try https://developers.themoviedb.org/)
 - Consider how the layout should adapt for larger screen sizes
-- Consider how the UI should change based on the user selection
+- Consider how the UI should change based on the users selections
 - Optional bonus - Add animations / transitions
 
 ### Coding Standards
