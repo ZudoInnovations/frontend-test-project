@@ -3,6 +3,15 @@
 ### Brief
 Convert the following screens into a functional user flow using Vue.js & modern SCSS with a component driven approach.
 
+#### Screen 1
+![Screen 1](Screen%201.png)
+
+#### Screen 2
+![Screen 2](Screen%202.png)
+
+#### Screen 3
+![Screen 3](Screen%203.png)
+
 ### Requirements
 - Use Vue.js & SCSS
 - Pull movie data from a third party API 
