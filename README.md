@@ -3,14 +3,8 @@
 ### Brief
 Convert the following screens into a functional user flow using Vue.js & modern SCSS with a component driven approach.
 
-#### Screen 1
-![Screen 1](Screen%201.png)
-
-#### Screen 2
-![Screen 2](Screen%202.png)
-
-#### Screen 3
-![Screen 3](Screen%203.png)
+#### Screens
+<img src="https://github.com/ZudoInnovations/frontend-test-project/blob/master/Screen%201.png" width="250"><img src="https://github.com/ZudoInnovations/frontend-test-project/blob/master/Screen%202.png" width="250"><img src="https://github.com/ZudoInnovations/frontend-test-project/blob/master/Screen%203.png" width="250">
 
 ### Requirements
 - Use Vue.js & SCSS
